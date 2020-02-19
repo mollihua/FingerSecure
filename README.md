@@ -5,11 +5,17 @@ Project goal:
 
 
 Files:
+
     data      - fingerprint images
+
     notebook  - jupyter notebook
+
     src       - source code 
+
     src_ext   - source code
+
     README.md - information
+
 
 
 Reference:

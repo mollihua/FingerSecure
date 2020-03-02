@@ -11,9 +11,9 @@ Files:
 
     notebook  - jupyter notebook
 
-    src       - source code 
+    src       - source code set 1 (see Reference) 
 
-    src_ext   - source code
+    src_ext   - source code set 2
 
     README.md - information
 

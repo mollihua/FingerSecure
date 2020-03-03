@@ -66,7 +66,7 @@ def minutiae_matching(dict_m_tuples, dict_angles, m_tuple_usr, m_angle_usr, verb
         counts_good = len(np.where(np.array(count_common_points_list) >=3)[0])
 
         # print(counts_good)
-        if counts_good >=2:
+        if counts_good >= 3 or max(count_common_points_list) >= 10:
             output_str = "Identied - owner %d!" % owner_id
 
         owner_id += 1

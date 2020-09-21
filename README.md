@@ -5,6 +5,9 @@ Project goal:
     This is to develop a privacy-focused automated fingerprint identification system (AFIS).
 
 
+Presentation ppt:
+    bit.ly/FingerSecure-ppt
+
 Files:
 
     data      - fingerprint images

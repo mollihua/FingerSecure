@@ -6,7 +6,9 @@ Project goal:
 
 
 Presentation ppt:
+
     bit.ly/FingerSecure-ppt
+
 
 Files:
 
